@@ -1,0 +1,5 @@
+{
+  "name": "Orbital Radio",
+  "description": "A 3D interactive global radio tuner featuring a high-fidelity globe, real-time station data, and an immersive atmosphere.",
+  "requestFramePermissions": []
+}
