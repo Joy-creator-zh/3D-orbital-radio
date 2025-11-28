@@ -34,8 +34,8 @@
 
 1.  **克隆项目**
     ```bash
-    git clone https://github.com/your-username/orbital-radio.git
-    cd orbital-radio
+    git clone https://github.com/Joy-creator-zh/3D-orbital-radio.git
+    cd 3D-orbital-radio
     ```
 
 2.  **安装依赖**
